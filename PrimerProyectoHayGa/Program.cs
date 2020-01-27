@@ -13,6 +13,7 @@ namespace PrimerProyectoHayGa
             Console.WriteLine("Hola HayGa");
             Console.WriteLine("Adios HayGa");
             Console.WriteLine("Adios otra vez");
+            Console.WriteLine("Bobada");
         }
     }
 }

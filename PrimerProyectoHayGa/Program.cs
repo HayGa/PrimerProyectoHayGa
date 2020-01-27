@@ -11,6 +11,7 @@ namespace PrimerProyectoHayGa
         static void Main(string[] args)
         {
             Console.WriteLine("Hola HayGa");
+            Console.WriteLine("Adios otra vez");
         }
     }
 }
